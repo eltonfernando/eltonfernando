@@ -3,8 +3,7 @@
 Eu sou Elton Fernandes dos Santos, engenheiro eletricista desenvolvedor de aplicações de visão computacional e autor do blog [visioncompy](http://visioncompy.com).
 
 
-- 🔭 Estou trabalhando com Opencv tensorflow python...
-- 🌱 Estou aprendendo QT, estatistica e análise de dados ...
+- 🔭 Trabalho com projetos de visão computacional...
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=eltonfernando&show_icons=true&hide_border=true)

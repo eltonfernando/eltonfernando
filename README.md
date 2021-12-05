@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Eu sou Elton Fernandes dos Santos, engenheiro eletricista desenvolvedor de aplicações de visão computacional e autor do blog [visioncompy](http://visioncompy.com).
+I'm Elton Fernandes dos Santos, computer vision application developer and blog author [visioncompy](http://visioncompy.com).
 
 
-- 🔭 Trabalho com projetos de visão computacional...
+- 🔭 Working with computer vision projects...
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=eltonfernando&show_icons=true&hide_border=true)

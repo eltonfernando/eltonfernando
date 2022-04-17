@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elton Fernandes dos Santos, computer vision application developer and blog author [visioncompy](http://visioncompy.com).
+I'm Elton Fernandes dos Santos, computer vision application developer in Engineering Brasil and blog author [visioncompy](http://visioncompy.com).
 
 
 - 🔭 Working with computer vision projects...
